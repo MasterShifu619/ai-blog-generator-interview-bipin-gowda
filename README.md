@@ -1,11 +1,11 @@
 # AI Blog Generator
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/YourUsername/ai-blog-generator/actions)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/MasterShifu619/ai-blog-generator/actions)
 [![license badge](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![issues badge](https://img.shields.io/github/issues/YourUsername/ai-blog-generator)](https://github.com/YourUsername/ai-blog-generator/issues)
+[![issues badge](https://img.shields.io/github/issues/MasterShifu619/ai-blog-generator)](https://github.com/MasterShifu619/ai-blog-generator/issues)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![Flask](https://img.shields.io/badge/flask-2.3-lightgrey.svg)](https://flask.palletsprojects.com/)
-[![GitHub Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/YourUsername/ai-blog-generator/releases)
+[![GitHub Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/MasterShifu619/ai-blog-generator/releases)
 
 ## AI-Powered Blog Post Generator
 
