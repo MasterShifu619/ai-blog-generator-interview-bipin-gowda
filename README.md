@@ -61,6 +61,7 @@ python app.py
 
 ## Folder Structure
 
+```bash
 .
 ├── app.py               # Main Flask app with daily job scheduler
 ├── ai_generator.py      # OpenAI integration and image injection
@@ -68,6 +69,7 @@ python app.py
 ├── posts/               # Generated blog posts saved here
 ├── requirements.txt
 └── .env
+```
 
 
 ## License
