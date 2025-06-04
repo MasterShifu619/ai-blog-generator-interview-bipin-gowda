@@ -36,20 +36,28 @@ Watch a quick demo on how the system works:
 ```bash
 git clone https://github.com/MasterShifu619/ai-blog-generator-interview-bipin-gowda.git
 cd ai-blog-generator
+```
 
+### 2. Set Up Environment
 
-2. Set Up Environment
-
+```bash
 python -m venv venv
 source venv/bin/activate  # or venv\\Scripts\\activate on Windows
 pip install -r requirements.txt
+```
 
-3. Create a .env File
+### 3. Create a .env File
+
+```bash
 OPENAI_API_KEY=sk-xxxxx
 PIXABAY_API_KEY=your_pixabay_key
+```
 
-4. Run the App
+### 4. Run the App
+
+```bash
 python app.py
+```
 
 Folder Structure
 
