@@ -59,7 +59,7 @@ PIXABAY_API_KEY=your_pixabay_key
 python app.py
 ```
 
-Folder Structure
+## Folder Structure
 
 .
 ├── app.py               # Main Flask app with daily job scheduler
@@ -70,11 +70,11 @@ Folder Structure
 └── .env
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+### This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-Contributors
+## Contributors
 <table> <tr> <td align="center"><a href="https://github.com/YourUsername"><img src="https://avatars.githubusercontent.com/u/112150278?v=4" width="100px;" alt=""/><br /><sub><b>Bipin Gowda</b></sub></a></td> </tr> </table>
 :email: Support
 Need help? Reach out at: bipin.919@gmail.com
