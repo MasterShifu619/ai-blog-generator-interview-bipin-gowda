@@ -75,6 +75,6 @@ python app.py
 
 
 ## Contributors
-<table> <tr> <td align="center"><a href="https://github.com/YourUsername"><img src="https://avatars.githubusercontent.com/u/112150278?v=4" width="100px;" alt=""/><br /><sub><b>Bipin Gowda</b></sub></a></td> </tr> </table>
+<table> <tr> <td align="center"><a href="https://github.com/MasterShifu619"><img src="https://avatars.githubusercontent.com/u/112150278?v=4" width="100px;" alt=""/><br /><sub><b>Bipin Gowda</b></sub></a></td> </tr> </table>
 :email: Support
 Need help? Reach out at: bipin.919@gmail.com
