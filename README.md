@@ -34,7 +34,7 @@ Watch a quick demo on how the system works:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/ai-blog-generator.git](https://github.com/MasterShifu619/ai-blog-generator-interview-bipin-gowda.git)
+git clone https://github.com/MasterShifu619/ai-blog-generator-interview-bipin-gowda.git
 cd ai-blog-generator
 
 
