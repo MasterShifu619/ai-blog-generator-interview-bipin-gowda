@@ -14,7 +14,7 @@
 ### Demo
 
 Watch a quick demo on how the system works:  
-[YouTube Demo](https://www.youtube.com/watch?v=your_demo_link)
+[Demo](https://drive.google.com/file/d/1jhRke34DW09d_TJPcPmLAI96kSI8gWtJ/view?usp=sharing)
 
 ---
 
@@ -71,6 +71,30 @@ python app.py
 └── .env
 ```
 
+## ⏰ Scheduler Configuration (APScheduler)
+This project uses APScheduler with a flexible and simple interval-based setup.
+
+### 🔁 Current Behavior
+The job runs immediately once when the server starts (next_run_time=datetime.now()).
+Then it runs once every 24 hours after that ('interval', days=1).
+
+### ✅ Benefits
+No need to configure cron-style time formats.
+Works perfectly for both production and development.
+Ensures a post is always generated daily from your rotating keyword list.
+
+### ✏️ To Change the Interval
+To generate a post every 12 hours instead:
+
+```bash
+scheduler.add_job(scheduled_job, 'interval', hours=12, next_run_time=datetime.now())
+```
+
+Or once every 2 days:
+
+```bash
+scheduler.add_job(scheduled_job, 'interval', days=2, next_run_time=datetime.now())
+```
 
 ## License
 ### This project is licensed under the MIT License - see the LICENSE file for details.
