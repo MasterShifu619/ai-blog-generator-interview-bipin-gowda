@@ -23,7 +23,7 @@ Watch a quick demo on how the system works:
 - 🔍 SEO-aware blog post generation
 - 🧠 Powered by GPT (`gpt-4.1-nano`) with real image injection
 - 🖼️ Fetches relevant images from Pixabay
-- 🗓️ Automatically generates one post daily at 8:00 AM
+- 🗓️ Automatically generates one post daily
 - 📂 Stores posts as professional HTML files in `/posts`
 - 🔁 Rotates through multiple keywords
 
