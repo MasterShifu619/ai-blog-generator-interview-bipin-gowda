@@ -1,4 +1,3 @@
-### app.py
 from flask import Flask, request, jsonify
 from ai_generator import generate_blog_post
 from seo_fetcher import fetch_seo_data
